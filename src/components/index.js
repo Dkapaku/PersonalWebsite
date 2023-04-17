@@ -1,0 +1,7 @@
+export {default as Homepage} from "./Homepage"
+export {default as AboutMe} from "./Aboutme"
+export {default as Header} from "./Header"
+export {default as Portfolio} from "./Portfolio"
+export {default as Resume} from "./Resume"
+export {default as Footer} from "./Footer"
+export {default as Skills} from "./Skills"
