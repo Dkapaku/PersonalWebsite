@@ -179,6 +179,8 @@ body::-webkit-scrollbar-thumb{
     justify-content: space-evenly;
     background-color:#e7e7e7;
     font-family:roboto;
+    padding-top:1cm;
+    padding-bottom:1cm;
 }
 .footerIconSection{
     margin-top:1cm;
@@ -197,7 +199,7 @@ body::-webkit-scrollbar-thumb{
     margin-top:1cm;
 }
 .footerContact{
-    margin-top:1cm;
+    margin-top:.5cm;
 }
 .portfolioContainer{
     margin-bottom: 2cm;
