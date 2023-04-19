@@ -10,7 +10,7 @@ const Header=()=>{
               <p className="headerLinks">Home</p>
         </Link>
         <Link to="/portfolio" className="headerLink"> 
-              <p className="headerLinks">Portfolio</p>    
+              <p className="headerLinks">Projects</p>    
         </Link>
         <Link to="/skills" className="headerLink">
               <p className="headerLinks">Skills</p>
